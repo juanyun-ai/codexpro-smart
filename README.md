@@ -1,32 +1,32 @@
 # CodexPro Smart
 
 <p align="center">
-  <img src="README-assets/codexpro-icon.png" width="92" alt="CodexPro Smart 应用图标">
+  <img src="README-assets/codexpro-icon.png" width="112" alt="CodexPro Smart 应用图标">
 </p>
 
 <h2 align="center">把两条本地线路，收进一块清醒的控制面板。</h2>
-<p align="center">一个面向 macOS 的双线路 MCP 生命周期控制器，关注状态诚实、进程归属和可回退操作。</p>
+<p align="center"><strong>让线路状态、进程归属和可回退动作，在同一处保持诚实可见。</strong></p>
+<p align="center">一个面向 macOS 的双线路 MCP 生命周期控制器，连接器与凭据由使用者自行审阅和注入。</p>
 
 <p align="center">
-  <img src="README-assets/social-preview-v3.png" alt="CodexPro Smart 产品展示卡">
+  <img src="https://img.shields.io/badge/VERSION-3.3%20%2F%20BUILD%2012-orange?style=for-the-badge&labelColor=505050" alt="Version 3.3 build 12">
+  <img src="https://img.shields.io/badge/PLATFORM-macOS%2013%2B-63c59c?style=for-the-badge&labelColor=505050" alt="macOS 13 or later">
+  <img src="https://img.shields.io/badge/STACK-SWIFTUI%20%2F%20APPKIT-82a9e0?style=for-the-badge&labelColor=505050" alt="SwiftUI AppKit">
+  <img src="https://img.shields.io/badge/STATUS-TECHNICAL%20PREVIEW-e97b73?style=for-the-badge&labelColor=505050" alt="Technical Preview">
 </p>
 
 <p align="center">
   <a href="#设计重点">设计重点</a> ·
   <a href="#构建">构建</a> ·
+  <a href="#验证记录">验证记录</a> ·
   <a href="#安全边界">安全边界</a>
 </p>
 
-<table align="center">
-  <tr>
-    <td><strong>版本</strong><br>3.3 / build 12</td>
-    <td><strong>平台</strong><br>macOS 13+</td>
-    <td><strong>技术</strong><br>SwiftUI · AppKit</td>
-    <td><strong>状态</strong><br>Technical Preview</td>
-  </tr>
-</table>
+> **重要说明**  这是从私有本地控制器抽出的公开源码快照。真实线路、隧道、凭据、本机路径和 LaunchAgent 配置不在本仓库中。
 
-> 这是本地控制界面的公开源码快照。真实线路、隧道、凭据和本机 LaunchAgent 配置不在本仓库中，连接器需要由使用者自行实现和审查。
+<p align="center">
+  <img src="README-assets/social-preview-v3.png" alt="CodexPro Smart 产品展示卡">
+</p>
 
 ## 设计重点
 
