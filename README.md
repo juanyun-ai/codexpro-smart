@@ -1,8 +1,6 @@
-# CodexPro Smart
+<h1 align="center">CodexPro Smart</h1>
 
-<p align="center">
-  <img src="README-assets/codexpro-icon.png" width="112" alt="CodexPro Smart 应用图标">
-</p>
+<hr>
 
 <h2 align="center">把两条本地线路，收进一块清醒的控制面板。</h2>
 <p align="center"><strong>让线路状态、进程归属和可回退动作，在同一处保持诚实可见。</strong></p>
@@ -24,9 +22,13 @@
 
 > **重要说明**  这是从私有本地控制器抽出的公开源码快照。真实线路、隧道、凭据、本机路径和 LaunchAgent 配置不在本仓库中。
 
+## 产品预览
+
 <p align="center">
-  <img src="README-assets/social-preview-v3.png" alt="CodexPro Smart 产品展示卡">
+  <img src="README-assets/codexpro-icon.png" width="88" alt="CodexPro Smart 应用图标">
 </p>
+
+![CodexPro Smart 产品展示卡](README-assets/social-preview-v3.png)
 
 ## 设计重点
 
